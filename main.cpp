@@ -1,4 +1,6 @@
 #include <iostream>
+#include "stack.hpp"
+#include "stack.cpp"
 
 int main() {
     std::cout << "Hello, World!" << std::endl;
