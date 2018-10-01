@@ -3,3 +3,15 @@
 //
 
 #include "stack.h"
+
+bool push(int add){
+
+}
+
+void pop(){
+
+}
+
+void top(){
+
+}

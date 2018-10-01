@@ -10,5 +10,11 @@ class stack {
 
 };
 
+bool push(int);
+void pop();
+void top();
+bool empty();
+void print();
+
 
 #endif //LAB_03_STACK_H
